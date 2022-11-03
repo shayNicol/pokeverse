@@ -2,9 +2,9 @@ import React, { useEffect, useState } from 'react';
 import { Navigation } from './components/Navigation';
 import { PokemonCard } from './components/PokemonCard';
 import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import InputGroup from "react-bootstrap/InputGroup";
+import Row from "react-bootstrap/Row";
 import Form from "react-bootstrap/Form";
 
 const LIMIT = 150;
